@@ -113,7 +113,12 @@ nav ul li a:hover {
     margin: 40px 0;
   }
 }
+.skills{
+    color: #013307;
+    background: rgb(121, 168, 214);
+    text-decoration: none;
 
+}
 .contact {
   /*   height:800px; */
   /*   min-height:800px; */
